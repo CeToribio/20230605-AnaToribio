@@ -1,0 +1,22 @@
+COMANDOS UTILIZADOS
+
+  git clone https://github.com/CeToribio/20230605-AnaToribio.git
+  git add . 
+  git status
+  git commit -m "commit 01 de Ana Toribio"
+  git push origin main
+  git checkout -b feature01
+  git add . 
+  git status
+  git commit -m "commit 02 Ana Toribio"
+  git push origin feature01
+  git checkout -b feature02
+  git add . 
+  git status
+  git commit -m "commit 03 de Ana Toribio"
+  git push origin feature02
+  git checkout main
+  git add . 
+  git status
+  git commit -m "commit 04 de Ana Toribio"
+  history
