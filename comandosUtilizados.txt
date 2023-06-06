@@ -19,4 +19,6 @@ COMANDOS UTILIZADOS
   git add . 
   git status
   git commit -m "commit 04 de Ana Toribio"
+  git push origin main
+  git pull origin main
   history
