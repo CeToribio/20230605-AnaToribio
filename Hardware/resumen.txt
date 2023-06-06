@@ -1,0 +1,7 @@
+3 PARTES INTERNAS DE LA COMPUTADORA
+
+1. Procesador (CPU): El procesador es el cerebro de la computadora y se encarga de ejecutar las instrucciones y realizar los cálculos necesarios para el funcionamiento del sistema. 
+
+2. Memoria RAM: La memoria RAM (Random Access Memory) es un componente de almacenamiento temporal que se utiliza para cargar y almacenar datos y programas en ejecución. Es de acceso rápido y permite al procesador acceder rápidamente a la información que necesita para realizar las operaciones.
+
+3. Disco duro: El disco duro es un dispositivo de almacenamiento de datos permanente que se utiliza para almacenar el sistema operativo, los programas y los archivos de datos de la computadora. Proporciona una capacidad de almacenamiento mucho mayor que la memoria RAM, pero su acceso es más lento. El disco duro almacena datos de forma no volátil, lo que significa que los datos permanecen incluso cuando la computadora se apaga.

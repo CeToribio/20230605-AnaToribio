@@ -1,0 +1,9 @@
+COMANDOS MÁS UTILIZADOS EN CLASE
+
+1. ls -> Lista de archivos en el carpeta
+2. mkdir -> crear una nueva carpeta
+3. touch [nombre del archivo] -> crear archivos
+4. pwd -> muestra la carpeta en la que estas trabajando
+5. clear -> limpia la pantalla de la terminal.
+
+
